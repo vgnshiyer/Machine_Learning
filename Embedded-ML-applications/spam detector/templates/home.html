@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ML Flask App</title>
+</head>
+<body>
+<h2>Email Spam Detector</h2>
+<div class="container">
+	<form action="{{ url_for('predict') }}" method="POST">
+		<p>Enter your email here:</p>
+		<textarea name="email" rows="5" cols="50"></textarea>
+
+		<input type="submit" name="btn-info" value="predict">
+	</form>
+</div>
+</body>
+</html>
