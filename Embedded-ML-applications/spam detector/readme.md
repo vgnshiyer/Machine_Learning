@@ -6,4 +6,4 @@ app.py=>Is the main application file which contains the implementation of the mu
 
 email.sqlite=> This file contains all the cleaned, preprocessed emails and arranged in the desired manner which can be used by the application.
 
-If you want a detailed view of the cleaning and preprocessing of the email data, check out () this directory.
+If you want a detailed view of the cleaning and preprocessing of the email data, check out (https://github.com/VigneshIyer25/Machine-Learning/tree/master/Spam-Dataset) this directory.
