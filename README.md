@@ -19,15 +19,15 @@ The retailer has hired us to help them create customer clusters, a.k.a "customer
 
 The MNIST Database(Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is widely used for training and testing in machine learning. The MNIST contains 60000 training and 10000 test images. As MNIST is high dimemsion data, visualizing it may be challenging. Here I have used different dimensionality reduction techniques (PCA and T-SNE) which are techniques for reducing the dimension of high deimesion data while retaining most of its information.
 
- ### * Embedded ML Applications
+### * Embedded ML Applications
  
- This directory consists of different machine learning projects deployed as a web based application using Flask( Web Framework ).
+-This directory consists of different machine learning projects deployed as a web based application using Flask( Web Framework ).
   -BlackFridaySale-Amount Predictor: Total amount predictor for the black friday sale( https://www.kaggle.com/mehdidag/black-friday).
   -Spam Detector: Spam Detector for emails.
   
- ### * Employee Retention
+### * Employee Retention
  
- Our client is the HR department at a large software company.
+Our client is the HR department at a large software company.
 
 - They are rolling out a new initiative that they call "Proactive Retention."
 - The idea is to use data to predict whether and employee is likely to leave.
