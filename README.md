@@ -21,7 +21,7 @@ The MNIST Database(Modified National Institute of Standards and Technology datab
 
 ### * Embedded ML Applications
  
--This directory consists of different machine learning projects deployed as a web based application using Flask( Web Framework ).
+This directory consists of different machine learning projects deployed as a web based application using Flask( Web Framework ).
   -BlackFridaySale-Amount Predictor: Total amount predictor for the black friday sale( https://www.kaggle.com/mehdidag/black-friday).
   -Spam Detector: Spam Detector for emails.
   
